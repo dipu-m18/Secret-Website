@@ -17,5 +17,13 @@
     "mongoose-encryption": "^2.0.2"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipu-m18/Secret-Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dipu-m18/Secret-Website/issues"
+  },
+  "homepage": "https://github.com/dipu-m18/Secret-Website#readme",
   "description": ""
 }
